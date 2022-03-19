@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-this is my file in feature2 branch.
-#I have made it purposely to see what happens during merge of feature1 brach to feature2 branch
-=======
 this is my file in feature1 branch.
-#just want to see merge conflict
->>>>>>> feature1
+just want to see merge conflict
+this is my file in feature2 branch.
+I have made it purposely to see what happens during merge of feature1 brach to feature2 branc
 
